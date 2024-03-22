@@ -23,6 +23,8 @@ function App() {
           <Route path="/home" element={<Home message={id} />} />
         </Routes>
       </div>
+
+  
     </Router>
   );
 }
